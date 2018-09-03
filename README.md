@@ -1,1 +1,1 @@
-Search and replace words in Microsoft Word
+Search and replace words in Microsoft Word.
